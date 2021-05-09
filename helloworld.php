@@ -1,3 +1,10 @@
 <?php
+use Testcomposer;
 
-print("hello world");
+class helloworld
+{
+    public function say()
+    {
+        return "hello world";
+    }
+}
