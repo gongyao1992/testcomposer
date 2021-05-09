@@ -1,0 +1,12 @@
+{
+    "name": "gongyao/testcomposer",
+    "authors": [
+        {
+            "name": "gongyao",
+            "email": "gongyao1992@qq.com"
+        }
+    ],
+    "require": {
+
+    }
+}
