@@ -9,5 +9,11 @@
     "require": {
 
     },
-    "description": ""
+    "description": "",
+
+    "autoload": {
+        "psr-4": {
+            "Testcomposer\\": "./"
+        }
+    }
 }
