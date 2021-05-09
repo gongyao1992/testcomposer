@@ -12,4 +12,9 @@ class helloworld
     {
         return "hello world2";
     }
+
+    public function say3()
+    {
+        return "hello world3";
+    }
 }
