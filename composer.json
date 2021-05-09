@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-
+        "monolog/monolog":"^2.2"
     },
     "description": "",
 
