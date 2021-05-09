@@ -7,4 +7,9 @@ class helloworld
     {
         return "hello world";
     }
+
+    public function say2()
+    {
+        return "hello world2";
+    }
 }
