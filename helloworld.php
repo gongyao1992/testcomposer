@@ -1,5 +1,5 @@
 <?php
-namespace Gongyao\Testcomposer;
+namespace Testcomposer;
 
 class helloworld
 {
