@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Gongyao\Testcomposer\pinyin;
+namespace Gongyao\Testcomposer\Pinyin;
 
 
 class dict
